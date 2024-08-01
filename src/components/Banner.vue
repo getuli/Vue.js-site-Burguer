@@ -1,6 +1,6 @@
 <template>
    <div class="main-banner">
-    <h1>make your Banner</h1>
+    <h1>make your Burger</h1>
    </div>
 </template>
 <script >
